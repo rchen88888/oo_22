@@ -33,4 +33,4 @@
 
 :bowtie:
 
-![cat](cat.png "this is a cat")
+![cat](cat.jpg "this is a cat")
